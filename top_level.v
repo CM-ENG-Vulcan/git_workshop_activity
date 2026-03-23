@@ -2,7 +2,7 @@ module top_level (
 	/* Add your inputs here */
 	
 	// Clock
-		
+	output LEDR;	
 	// Keys
 		
 	// Leds
